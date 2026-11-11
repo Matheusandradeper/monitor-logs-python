@@ -1,0 +1,13 @@
+2026-11-12 10:00:00 [INFO] Iniciando o servidor web...
+2026-11-12 10:00:05 [INFO] Servidor rodando na porta 8080.
+2026-11-12 10:05:00 [INFO] Usuário admin logado com sucesso.
+2026-11-12 10:15:30 [ERROR] Falha ao conectar com o banco de dados MySQL.
+2026-11-12 10:15:35 [INFO] Tentando reconectar ao banco...
+2026-11-12 10:15:40 [INFO] Reconectado com sucesso.
+2026-11-12 11:30:00 [INFO] Backup diário iniciado.
+2026-11-12 11:35:00 [FATAL] Disco cheio! O espaço em /var/www esgotou.
+2026-11-12 11:40:00 [INFO] Servidor desligado pelo administrador.
+2026-11-12 12:30:00 [ERROR] Falha crítica no serviço de e-mail.
+2026-11-12 12:30:00 [ERROR] Falha crítica no serviço de e-mail.
+2026-11-12 12:45:00 [ERROR] Falha crítica no serviço de e-mail.
+2026-11-12 12:49:00 [ERROR] Falha crítica no serviço de e-mail.
